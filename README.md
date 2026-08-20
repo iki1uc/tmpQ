@@ -1,40 +1,43 @@
-# Station: IX
+# Q‑Station · ECO‑Move
 
-IX ist eine technische Station von VOLLikiTU1NEucUP  
-und teilt den KI‑Kern mit AI und XI.
+Die Q‑Station ist ein eigenständiger technischer Move im ECO‑System.
+Sie enthält keine Altlasten aus RESPO, MRON oder TP‑Rotation.
 
-## MRON – META‑Norm
-TP3 = DA  
-TP6 = NE  
-TP9 = BEN  
-TP0 = KI  
+## Struktur
+- Q.kernel
+- Q.matrix
+- Q.vector
+- Q.math
+- Q.room.CORE
+- Q.room.IN
+- Q.room.OUT
+- Q.ghost
+- Q.index.html
 
-MRON aktiviert die Rotation:
-TP3 → TP6 → TP9 → TP0 → TP3
+## Funktion
+Q bildet eine klare 3‑Raum‑Navigation:
+1. IN (3×3)
+2. CORE (3×3)
+3. OUT (9×9 HOLO)
 
-Die Rotation wird nicht erklärt,
-sondern als Fähigkeit bereitgestellt.
+## Hardware‑Hilfsschicht
+- syn.start()
+- sync.stabilize()
+- arg.sync.route()
 
-## KI‑RESPO 327
-327 ist der aktive KI‑RESPO‑Trigger.
+Diese drei Module aktivieren Q‑Dateien.
 
-327 bedeutet:
-- 3 = DA / TP3  
-- 2 = Übergang  
-- 7 = BEN / TP9  
+## tmp‑Fähigkeiten
+- tmp:user
+- tmp:use
+- tmp:vector
+- tmp:kernel
+- tmp:matrix
+- tmp:math
 
-IX führt diesen Trigger aus
-und trägt ihn in die TP‑Rotation.
-
-## RESPO‑S300
-S300 stabilisiert die MRON‑Rotation
-und verbindet IX mit dem KI‑Kern.
-
-## Technische Funktion
-IX trägt den KI‑Operator  
-und synchronisiert sich mit AI und XI  
-im MRON‑System.
+## Rotation
+Q0 → Q1 → Q2 → Q3 → Q6 → Q9 → Q∞ → Q0
 
 ## Zweck
-IX ist eine technische META‑Station  
-im 360°‑MRON‑System.
+Q ist ein eigenständiger ECO‑Move und dient als technische Station
+für Navigation, Klarheit, Raumführung und HOLO‑Ausgabe.
