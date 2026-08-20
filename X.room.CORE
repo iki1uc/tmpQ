@@ -1,8 +1,5 @@
-X.room.CORE:
-  ID: <BUCHSTABE>
-  SIGNATUR: <NC-ZEICHEN>
-  FUNKTION: <NAVIGATION>
-  ACHSEN: 6e / x / y / t / h / b
-  ORBIT: q / u / i / o
-  EVO: QI / IQQ / upg / upd / rev
-  MATRIX: 3x3 → 9x9
+ID: Q
+PORT: CORE
+MATRIX: 3x3
+RAW: CLEAN
+TYPE: KERNRAUM
