@@ -5,7 +5,10 @@ function RUN_8_PIPELINE_9(station) {
     sync.stabilize();
     arg.sync.route(station);
 
-    station.X8.activate();     // neue X8-Schicht
+    // X8-Schicht aktivieren
+    station.X8.activate();
+
+    // tmp-Funktionen laden
     station.tmp.user.load();
     station.tmp.use.load();
     station.tmp.vector.route();
